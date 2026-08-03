@@ -2,7 +2,7 @@
 
 **BetterDiscord** is a client modification for Discord that adds custom themes, plugins and advanced features. Transform your Discord experience with thousands of community-made themes and powerful plugins that extend functionality far beyond the official app.
 
-<img width="1200" height="1200" alt="images1" src="https://github.com/user-attachments/assets/bc697136-e09f-451a-b0f0-66d6ab80ae17" />
+<img width="100" height="100" alt="images1" src="https://github.com/user-attachments/assets/bc697136-e09f-451a-b0f0-66d6ab80ae17" />
 
 ## Install
 
